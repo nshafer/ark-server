@@ -1,0 +1,8 @@
+ark.conf
+backup/
+log/
+server/
+staging/
+!server/ShooterGame/Saved/Config/LinuxServer/Game.ini
+!server/ShooterGame/Saved/Config/LinuxServer/GameUserSettings.ini
+*.example
